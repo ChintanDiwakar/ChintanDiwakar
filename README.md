@@ -48,7 +48,7 @@
 </details>
 
 <!-- // [website]: https://chintandiwakar.com -->
-[vscode] : https://code.visualstudio.com/ 
+[vscode]: https://code.visualstudio.com
 [twitter]: https://twitter.com/ChintanDiwakar1
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://instagram.com/chintan_diwakar
