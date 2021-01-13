@@ -5,9 +5,10 @@
 
 ## Full Stack Developer
 
+###### To utilize my capabilities for understanding,  optimizing,  and implementing a technology in the bestpossible way, to deliver it as a solution.
 
 
----
+<br />
 
 ### Languages and Tools:
 
