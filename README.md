@@ -27,37 +27,9 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChintanDiwakar&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChintanDiwakar&theme=default&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChintanDiwakar&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 📈 Contribution Graph:
-
-<p align="center">
-  <img src="https://github-contribution-graph.vercel.app/?username=ChintanDiwakar&bg=ffffff&color=000000&line=30ae60&point=1abc9c&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### ✍️ Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- 🚧 Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintandiwakar)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chintandiwakar)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat-square&logo=githubpages&logoColor=white)](https://chintandiwakar.dev)
 
 ---
 
