@@ -12,7 +12,6 @@
 - 🌱 I specialize in Next.js, Node.js, MongoDB, and LangChain-based AI tools  
 - 💼 I've deployed multiple projects onsite in Dubai  
 - 🧠 I automate boring tasks for fun  
-- 🕸️ Portfolio: [chintandiwakar.dev](https://chintandiwakar.dev) _(optional)_
 
 ---
 
